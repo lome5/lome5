@@ -4,7 +4,5 @@ Hi, I’m @lome5
 - 💞️ I’m looking to collaborate on creative and interactive web projects.  
 - 📫 How to reach me: Insta hoon1234n1@gmail.com
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love dark themes, heels, and classic colors!  
-🌐 My GitHub Profile Website  
-I created this profile website using GitHub Pages🚀💖  
-Check it out here: [My Profile Website](https://lome5.github.io/) ✨  
+- ⚡ Fun fact: I love dark themes, heels, and classic colors 
+
